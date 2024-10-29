@@ -15,7 +15,7 @@ LiquidCrystal lcd(D4, D3, D2, D1, D0, D5);
 // Constants
 const float myLat = -33.9249;
 const float myLon = 18.4241;
-String apiKey = "NH74CL-F9XL2D-EU42SJ-5CZB";
+String apiKey = "enter api key here "; 
 String satID = "25544";  // ISS NORAD ID
 
 void setup() {
